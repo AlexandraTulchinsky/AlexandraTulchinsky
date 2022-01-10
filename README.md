@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
-<h3 align="center">I am currently learning Data Science</h3>
-
 - 🔭 I’m currently working on **predictive models**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Science**
 
 - 📫 How to reach me **atulc069@uottawa.ca**
 
