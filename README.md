@@ -3,6 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandratulchinsky" alt="alexandratulchinsky" /></a> </p>
 
+
+- 🔭 I’m currently working on a Kaggle Competitions
+
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+
 - 📫 How to reach me **atulc069@uottawa.ca**
 
 <h3 align="left">Connect with me:</h3>
