@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandratulchinsky" alt="alexandratulchinsky" /></a> </p>
 
 
-- 🔭 I’m currently working on a Generative AI projects on AWS
+- 🔭 I’m currently working on Generative AI projects on AWS
 
 - 🌱 I’m currently learning Pinecone and LangChain
 
