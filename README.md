@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandratulchinsky" alt="alexandratulchinsky" /></a> </p>
 
 
-- 🔭 I’m currently working on a Kaggle Competitions
+- 🔭 I’m currently working on a Generative AI projects on AWS
 
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🌱 I’m currently learning Pinecone and LangChain
 
-- 📫 How to reach me **atulc069@uottawa.ca**
+- 📫 How to reach me **alexandratulchinsky@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
